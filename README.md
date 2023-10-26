@@ -18,13 +18,13 @@ The primary objective is to harness the potential of existing customer data and 
 5. **Sales Forecasting:** Design and implement a forecast model tailored for each customer segment, elaborating on the findings.
 
 ## Folder Structure and Code Organization
-1. data/
+1. data.csv.zip/
 This directory contains all data files utilized in the project. 
 
-2. notebooks/
+2. Online Retail analysis.ipynb/
 Jupyter notebooks detailing the exploratory data analysis (EDA), segmentation, modeling, and other interactive content reside here.
 
-3. docs/
+3. Retail data challenge 2.pptx/
 Slide documentation that present the project
 
 4. README.md
